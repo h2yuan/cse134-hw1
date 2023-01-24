@@ -1,3 +1,3 @@
 # CSE134B-SS20-HW1
-# Name:
-# PID:
+# Name: Hao Yuan
+# PID: A15928345
